@@ -1,0 +1,9 @@
+
+[27-Nov-2022 16:16:39 America/Chicago] PHP Notice:  Undefined variable: curl in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 28
+[27-Nov-2022 16:16:39 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 28
+[27-Nov-2022 16:16:39 America/Chicago] PHP Notice:  Undefined variable: curl in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 29
+[27-Nov-2022 16:16:39 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 29
+[27-Nov-2022 16:16:54 America/Chicago] PHP Notice:  Undefined variable: curl in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 28
+[27-Nov-2022 16:16:54 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 28
+[27-Nov-2022 16:16:54 America/Chicago] PHP Notice:  Undefined variable: curl in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 29
+[27-Nov-2022 16:16:54 America/Chicago] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /var/www/html/bda.life/public_html/robux/verifyCaptcha/index.php on line 29
